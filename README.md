@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Keithkaur!</h1>
-<h3 align="center">🚀 A passionate coder and cybersecurity enthusiast, building smart and secure solutions.</h3>
+<h3 align="center">🚀 A passionate coder and Machine Learning enthusiast, building smart and secure solutions.</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f4/f0/61/f4f0618b64f7c5b88f90a94bb7c5e3a0.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
 </p>
 
 ---
