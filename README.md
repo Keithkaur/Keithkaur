@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate coder and cybersecurity enthusiast, building smart and secure solutions.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🧠 Interests: Cyber Security, System Design, Data Science, AI/ML
 - 🛡️ Cybersecurity Trainee at PwC
 - 📈 Certified in Data Science with Python (Infosys)
-- 💬 Ask me about: Python, C++, SQL, ML, Git
+- 💬 Ask me about: C++, Python, C , SQL, ML, Git , Cyber Security
 - 📫 Email: **keithmanav@gmail.com**
 
 ---
