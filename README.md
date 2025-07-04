@@ -2,10 +2,9 @@
 <h3 align="center">🚀 A passionate coder and Machine Learning enthusiast, building smart and secure solutions.</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1aHdxdzJ5MWhmYmRtcnNmOHJtbnJuczJ0MHRpcHNkNTJncm10NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif)" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjk1aHdxdzJ5MWhmYmRtcnNmOHJtbnJuczJ0MHRpcHNkNTJncm10NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300" />
 </p>
 
----
 
 ## 👩‍💻 About Me
 
